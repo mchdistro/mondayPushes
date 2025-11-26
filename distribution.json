@@ -447,9 +447,9 @@
           "name": "The Aether",
           "type": "ForgeMod",
           "artifact": {
-            "size": 39855782,
+            "size": 39855740,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
-            "MD5": "c3caaf198205f8eb2b2ca93720496eff"
+            "MD5": "df83368520f8e63058195bac9d4c2282"
           }
         },
         {
