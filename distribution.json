@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -637,9 +637,9 @@
           "name": "Inventory Profiles Next",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1503674,
+            "size": 1456863,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/InventoryProfilesNext-forge-1.20-1.10.19.jar",
-            "MD5": "dc24ed2f14fe5c1be496d4a284e6265b"
+            "MD5": "eafdba0041b0811e9e7afda28a5927fe"
           }
         },
         {
@@ -707,9 +707,9 @@
           "name": "LibIPN",
           "type": "ForgeMod",
           "artifact": {
-            "size": 728827,
+            "size": 693301,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
-            "MD5": "993a8f05b3c6fdcb7af8671f91ad16b7"
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
           }
         },
         {
