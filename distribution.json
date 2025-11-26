@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -687,9 +687,9 @@
           "name": "Kotlinforforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7350196,
+            "size": 7193768,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
-            "MD5": "f66f19422bb3ccd3a513eff6997e3a82"
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
           }
         },
         {
