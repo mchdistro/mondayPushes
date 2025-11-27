@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -787,9 +787,9 @@
           "name": "Sniffer's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 74209,
+            "size": 69643,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/sniffers_delight-1.0.3-forge-1.20.1.jar",
-            "MD5": "8c94b88bbfb59868024be8aaff5a3866"
+            "MD5": "e940156ed5201041b654929ecd7419cc"
           }
         },
         {
