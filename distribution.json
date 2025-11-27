@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -449,7 +449,7 @@
           "artifact": {
             "size": 39863460,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
-            "MD5": "f6c2443b6022eaf4cfbef186be133554"
+            "MD5": "005d7f1f683d79865206b997a13491c5"
           }
         },
         {
@@ -577,9 +577,9 @@
           "name": "Egg Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 632987,
+            "size": 631508,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
-            "MD5": "5bf9e2b46ca73258acff9d8b28264111"
+            "MD5": "8cb9d9275802329bf7ffbdc371d9c7ec"
           }
         },
         {
@@ -627,9 +627,9 @@
           "name": "Handcrafted",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7413620,
+            "size": 7413792,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
-            "MD5": "fe8c221d8e09f318dbbdd073d1f2217d"
+            "MD5": "3bfa93ef31308e27a36dd9d70f11ca99"
           }
         },
         {
@@ -727,9 +727,9 @@
           "name": "Miner's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 492526,
+            "size": 492604,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/miners_delight-1.20.1-1.2.3.jar",
-            "MD5": "2ff1c6d89ca40d5a08c10d80f119892c"
+            "MD5": "db93098cb12511c416822d45ed7a198a"
           }
         },
         {
@@ -857,9 +857,9 @@
           "name": "Youkais' Feasts",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4061094,
+            "size": 4063311,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/youkaisfeasts-0.4.1.jar",
-            "MD5": "20a1cc5a557acb88c640449229fd0c94"
+            "MD5": "44b5c7e7518efbb32c89be880cf54a0f"
           }
         },
         {
