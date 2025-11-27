@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -597,9 +597,9 @@
           "name": "Farmer's Respite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 553166,
+            "size": 528180,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/farmersrespite-1.20.1-2.1.2.jar",
-            "MD5": "9a36b74bab48adf4694add8a8eb828b0"
+            "MD5": "4403ecfe3fe053a0be1424dcb270281f"
           }
         },
         {
