@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -447,9 +447,9 @@
           "name": "The Aether",
           "type": "ForgeMod",
           "artifact": {
-            "size": 39855740,
+            "size": 39863460,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
-            "MD5": "df83368520f8e63058195bac9d4c2282"
+            "MD5": "f6c2443b6022eaf4cfbef186be133554"
           }
         },
         {
@@ -557,9 +557,9 @@
           "name": "Deeper and Darker",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17890662,
+            "size": 17895094,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/deeperdarker-forge-1.20.1-1.3.3.jar",
-            "MD5": "a1ee1db0f516cf803f968be3100d1e07"
+            "MD5": "a1b8437ac7ab976cb40bc7007c01e3f2"
           }
         },
         {
@@ -567,9 +567,9 @@
           "name": "Display Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1049947,
+            "size": 1055675,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/displaydelight-1.4.0.jar",
-            "MD5": "0716a6b52fdbe2e0b15e058b973360ab"
+            "MD5": "3bce49e3d1f9e5aed3876018a632cdb1"
           }
         },
         {
@@ -577,9 +577,9 @@
           "name": "Egg Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 632993,
+            "size": 632987,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
-            "MD5": "89ae77a07ea114e6ac6ddc36d2d29b20"
+            "MD5": "5bf9e2b46ca73258acff9d8b28264111"
           }
         },
         {
@@ -597,9 +597,9 @@
           "name": "Farmer's Respite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 552183,
+            "size": 553166,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/farmersrespite-1.20.1-2.1.2.jar",
-            "MD5": "b8cc24400eeaf88a37e4ae7801fe6b68"
+            "MD5": "9a36b74bab48adf4694add8a8eb828b0"
           }
         },
         {
@@ -627,9 +627,9 @@
           "name": "Handcrafted",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7413648,
+            "size": 7413620,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
-            "MD5": "0071627755440f4765af447bc547a660"
+            "MD5": "fe8c221d8e09f318dbbdd073d1f2217d"
           }
         },
         {
@@ -727,9 +727,9 @@
           "name": "Miner's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 492547,
+            "size": 492526,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/miners_delight-1.20.1-1.2.3.jar",
-            "MD5": "641bd66cb787707dfc713cff4a93b865"
+            "MD5": "2ff1c6d89ca40d5a08c10d80f119892c"
           }
         },
         {
@@ -777,9 +777,9 @@
           "name": "Rustic Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 478250,
+            "size": 478203,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/rusticdelight-forge-1.20.1-1.4.1.jar",
-            "MD5": "45ad77ea3b480e20337d093168974273"
+            "MD5": "33157b54b22156042ccc7883250c7c5a"
           }
         },
         {
@@ -787,9 +787,9 @@
           "name": "Sniffer's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 74214,
+            "size": 74209,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/sniffers_delight-1.0.3-forge-1.20.1.jar",
-            "MD5": "b66957bcc9ac0bafcb0a3591e2b8fc48"
+            "MD5": "8c94b88bbfb59868024be8aaff5a3866"
           }
         },
         {
@@ -857,9 +857,9 @@
           "name": "Youkais' Feasts",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4061103,
+            "size": 4061094,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/youkaisfeasts-0.4.1.jar",
-            "MD5": "3592299fde599974f3cfc2d865be74a1"
+            "MD5": "20a1cc5a557acb88c640449229fd0c94"
           }
         },
         {
