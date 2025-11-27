@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -859,7 +859,7 @@
           "artifact": {
             "size": 3916833,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/youkaisfeasts-0.4.1.jar",
-            "MD5": "7ef4d6e8962d4cbecf7c10df86e4075a"
+            "MD5": "0d7fb97ff250f06a81d7838ff6886359"
           }
         },
         {
