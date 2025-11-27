@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -447,9 +447,9 @@
           "name": "The Aether",
           "type": "ForgeMod",
           "artifact": {
-            "size": 39863460,
+            "size": 39682819,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
-            "MD5": "005d7f1f683d79865206b997a13491c5"
+            "MD5": "f3a29d89c5e34dbc5abc1018d43039c6"
           }
         },
         {
@@ -557,9 +557,9 @@
           "name": "Deeper and Darker",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17895094,
+            "size": 17805135,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/deeperdarker-forge-1.20.1-1.3.3.jar",
-            "MD5": "a1b8437ac7ab976cb40bc7007c01e3f2"
+            "MD5": "6b0681ed4ee620645c9d3325ada4dc6c"
           }
         },
         {
@@ -567,9 +567,9 @@
           "name": "Display Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1055675,
+            "size": 997721,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/displaydelight-1.4.0.jar",
-            "MD5": "3bce49e3d1f9e5aed3876018a632cdb1"
+            "MD5": "d03fd37e0f87e0b644a64f9b86d6286e"
           }
         },
         {
@@ -747,9 +747,9 @@
           "name": "Nether's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 376553,
+            "size": 359457,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/nethersdelight-1.20.1-4.0.jar",
-            "MD5": "38bc57a34546cf5ed87de6d15e013645"
+            "MD5": "8e6363d12e3822f42e2675160a961f52"
           }
         },
         {
@@ -857,9 +857,9 @@
           "name": "Youkais' Feasts",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4063311,
+            "size": 3916833,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/youkaisfeasts-0.4.1.jar",
-            "MD5": "44b5c7e7518efbb32c89be880cf54a0f"
+            "MD5": "0869c48e63c686c774f115bb6346da02"
           }
         },
         {
