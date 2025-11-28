@@ -598,6 +598,19 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.9@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -625,6 +638,26 @@
             "size": 241668,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/frycooks_delight-1.20.1-1.0.1.jar",
             "MD5": "5566a5b6807fe770bedca1987d6fa4f9"
+          }
+        },
+        {
+          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.3@jar",
+          "name": "GT-DonationAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7301408,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.3.jar",
+            "MD5": "0371df6d701a3f3ac52659cb19889c0e"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91050,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.2.jar",
+            "MD5": "22e5a43f1e6ec2d255b28a0df515350e"
           }
         },
         {
@@ -698,6 +731,19 @@
           }
         },
         {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 315488,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.0+mc1.20.1.jar",
+            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -765,6 +811,19 @@
             "size": 359457,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/nethersdelight-1.20.1-4.0.jar",
             "MD5": "8e6363d12e3822f42e2675160a961f52"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -878,6 +937,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -885,6 +954,28 @@
             "size": 195,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "AstraLex-V89.0.zip",
+          "name": "AstraLex-V89.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3180580,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/shaderpacks/AstraLex-V89.0.zip",
+            "MD5": "ab0247fddf9b4aa21343f0c0ae7aaf29",
+            "path": "shaderpacks/AstraLex-V89.0.zip"
+          }
+        },
+        {
+          "id": "Solas_Shader-V3.1b.zip",
+          "name": "Solas_Shader-V3.1b.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1301763,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/shaderpacks/Solas_Shader-V3.1b.zip",
+            "MD5": "12c4864d06d6dd389768ef1a6032934b",
+            "path": "shaderpacks/Solas_Shader-V3.1b.zip"
           }
         }
       ]
