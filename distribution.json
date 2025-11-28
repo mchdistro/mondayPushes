@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -941,7 +941,7 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 152,
+            "size": 148,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/config/iris.properties",
             "path": "config/iris.properties"
           }
@@ -957,14 +957,14 @@
           }
         },
         {
-          "id": "AstraLex-V89.0.zip",
-          "name": "AstraLex-V89.0.zip",
+          "id": "AstraLex-V93.0.zip",
+          "name": "AstraLex-V93.0.zip",
           "type": "File",
           "artifact": {
-            "size": 3180580,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/shaderpacks/AstraLex-V89.0.zip",
-            "MD5": "ab0247fddf9b4aa21343f0c0ae7aaf29",
-            "path": "shaderpacks/AstraLex-V89.0.zip"
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/files/shaderpacks/AstraLex-V93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex-V93.0.zip"
           }
         },
         {
