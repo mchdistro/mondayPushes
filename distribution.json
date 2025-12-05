@@ -625,9 +625,9 @@
           "name": "Farmer's Respite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 533649,
+            "size": 528180,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/farmersrespite-1.20.1-2.1.2.jar",
-            "MD5": "b74768ebff86418ab34b34cbed92e810"
+            "MD5": "7372ed378fb9866574a47c3148589de5"
           }
         },
         {
