@@ -558,6 +558,16 @@
           }
         },
         {
+          "id": "com.tom.createores:createoreexcavation:1.6.5@jar",
+          "name": "Create Ore Excavation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432699,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/createoreexcavation-1.20-1.6.5.jar",
+            "MD5": "4965ad729b2a26b484d3c95da3996ea1"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -658,6 +668,16 @@
             "size": 91050,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.2.jar",
             "MD5": "22e5a43f1e6ec2d255b28a0df515350e"
+          }
+        },
+        {
+          "id": "dlr.delarosaplay:guardstone:1.0.0@jar",
+          "name": "GuardStone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 280063,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/GuardStone.jar",
+            "MD5": "6ee1c041fc7a5d565b9f9334bd50931f"
           }
         },
         {
