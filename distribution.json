@@ -12,7 +12,7 @@
       "name": "먼푸 서버",
       "description": "Minecraft 1.20.1 (Forge v47.4.12)",
       "icon": "https://github.com/mchdistro/mondayPushes/raw/main/server-icon.png",
-      "version": "0.1.10",
+      "version": "0.1.11",
       "address": "minecraft.fbk.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -453,8 +453,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206476,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether_delight_1.0.0_forge_1.20.1.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/aether_delight_1.0.0_forge_1.20.1.jar",
             "MD5": "ebc9ddc47b1968c8fa99a4d252df9635"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -463,8 +466,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 39682819,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/aether-1.20.1-1.5.2-neoforge.jar",
             "MD5": "f3a29d89c5e34dbc5abc1018d43039c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -493,8 +499,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 616413,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.5.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/Aquaculture-1.20.1-2.5.5.jar",
             "MD5": "7cc9af62c1e3d0826e6fb580cce3a240"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -523,8 +532,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 117441,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/blockdonalds-0.1.1-1.20.1.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/blockdonalds-0.1.1-1.20.1.jar",
             "MD5": "3089251552414fc2126acc41e677fa06"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -613,11 +625,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -651,13 +660,13 @@
           }
         },
         {
-          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.3@jar",
+          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.4@jar",
           "name": "GT-DonationAPI",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7301408,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.3.jar",
-            "MD5": "0371df6d701a3f3ac52659cb19889c0e"
+            "size": 7308409,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.4.jar",
+            "MD5": "f23fb77c74e7b31ce090f93c2fb82f05"
           }
         },
         {
@@ -745,22 +754,9 @@
           "name": "Korean Patch",
           "type": "ForgeMod",
           "artifact": {
-            "size": 317708,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
-            "MD5": "5cd0a2ea5a6f13064bcd162f01c62304"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
-          "artifact": {
             "size": 315488,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.0+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
             "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -779,8 +775,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 128073677,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/L_Enders_Cataclysm-3.16.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/L_Enders_Cataclysm-3.16.jar",
             "MD5": "26e83e11e51bb97b472da0a092f3ad9b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -839,11 +838,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -922,8 +918,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1455899,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/twilightdelight-2.0.17.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/twilightdelight-2.0.17.jar",
             "MD5": "1dfdddbf495dda897115d0be40973436"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -932,8 +931,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23488210,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "2849c101c3bcb65db2537ed8f9cc90de"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -952,8 +954,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3916833,
-            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/youkaisfeasts-0.4.1.jar",
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/optionalon/youkaisfeasts-0.4.1.jar",
             "MD5": "0d7fb97ff250f06a81d7838ff6886359"
+          },
+          "required": {
+            "value": false
           }
         },
         {
