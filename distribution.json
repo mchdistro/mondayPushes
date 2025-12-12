@@ -540,6 +540,16 @@
           }
         },
         {
+          "id": "wayoftime.bloodmagic:bloodmagic:3.3.5-47@jar",
+          "name": "Blood Magic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14953384,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/bloodmagic-1.20.1-3.3.5-47.jar",
+            "MD5": "2ea93121fc479407e28952b1c04334c2"
+          }
+        },
+        {
           "id": "net.redstonegames:chefsdelight:1.0.3-forge-1.20.1@jar",
           "name": "Chefs Delight",
           "type": "ForgeMod",
@@ -637,6 +647,16 @@
             "size": 1320675,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "enchextraction:enchantment_extraction_table:1.0.3@jar",
+          "name": "Enchantment_Extraction_Table_By_Semi",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597877,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/enchantment_extraction_table-1.0.3-forge-1.20.1.jar",
+            "MD5": "6d281eca3d52081fb992eeab56c96546"
           }
         },
         {
@@ -863,6 +883,16 @@
           }
         },
         {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642711,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "MD5": "d5154cacf6859582eebd853bd59f5537"
+          }
+        },
+        {
           "id": "de.maxhenkel:pipez:1.20.1-1.2.5@jar",
           "name": "Pipez",
           "type": "ForgeMod",
@@ -900,6 +930,16 @@
             "size": 478203,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/rusticdelight-forge-1.20.1-1.4.1.jar",
             "MD5": "33157b54b22156042ccc7883250c7c5a"
+          }
+        },
+        {
+          "id": "tomson124.simplyjetpacks:simplyjetpacks:1.20.1-2.11.0.0@jar",
+          "name": "Simply Jetpacks 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619907,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/SimplyJetpacks2-1.20.1-2.11.0.0.jar",
+            "MD5": "1d6c1e05085cf4f6dad84a797eaea98c"
           }
         },
         {
