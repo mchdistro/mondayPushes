@@ -600,6 +600,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.12.32@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158417,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+            "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -1016,6 +1026,26 @@
             "size": 255481,
             "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
             "MD5": "595a2467900abcdf00b3059c56fc0d0f"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.37@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
+          }
+        },
+        {
+          "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
+          "name": "WaterVision",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82079,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+            "MD5": "c934bcbabeb242ce7da79e3f16d1406c"
           }
         },
         {
