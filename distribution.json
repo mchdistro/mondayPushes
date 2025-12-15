@@ -1009,6 +1009,16 @@
           }
         },
         {
+          "id": "me.srrapero720:waterframes:2.1.22@jar",
+          "name": "WaterFrames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 255481,
+            "url": "https://github.com/mchdistro/mondayPushes/raw/main/servers/mondayPushes-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+            "MD5": "595a2467900abcdf00b3059c56fc0d0f"
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:14.1.17@jar",
           "name": "Waystones",
           "type": "ForgeMod",
